@@ -1,5 +1,8 @@
+# Media files
 .media
 media/
+
+# Static files
 .static
 static/
 
